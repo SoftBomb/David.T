@@ -1,0 +1,10 @@
+<!--Navbar-->
+Navbar
+<!--About-->
+About
+<!--Timeline-->
+Timeline
+<!--Projects-->
+<!--Testemony-->
+<!--Contact-->
+<!--Footer-->
